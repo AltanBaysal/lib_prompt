@@ -1,5 +1,5 @@
 import 'package:auto_route/auto_route.dart';
-import 'package:prompt_lib/features/library/presentation/screens/library_screen.dart';
+import 'package:vibe_lib/features/library/presentation/screens/library_screen.dart';
 
 part 'app_router.gr.dart';
 

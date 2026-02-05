@@ -1,5 +1,5 @@
-import 'package:prompt_lib/features/library/data/models/prompt_model.dart';
-import 'package:prompt_lib/features/library/domain/entities/prompt_entity.dart';
+import 'package:vibe_lib/features/library/data/models/prompt_model.dart';
+import 'package:vibe_lib/features/library/domain/entities/prompt_entity.dart';
 
 class PromptMapper {
   static PromptEntity toEntity(PromptModel model) {

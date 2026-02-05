@@ -1,9 +1,9 @@
 import 'package:auto_route/auto_route.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:prompt_lib/features/library/presentation/viewmodels/library_viewmodel.dart';
-import 'package:prompt_lib/features/library/presentation/widgets/prompt_card.dart';
-import 'package:prompt_lib/core/theme/app_theme.dart'; // Assuming AppTheme is defined here or similar
+import 'package:vibe_lib/features/library/presentation/viewmodels/library_viewmodel.dart';
+import 'package:vibe_lib/features/library/presentation/widgets/prompt_card.dart';
+import 'package:vibe_lib/core/theme/app_theme.dart'; // Assuming AppTheme is defined here or similar
 
 @RoutePage()
 class LibraryScreen extends ConsumerWidget {

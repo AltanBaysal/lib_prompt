@@ -1,6 +1,6 @@
 import 'dart:convert';
 import 'package:flutter/services.dart';
-import 'package:prompt_lib/features/library/data/models/prompt_model.dart';
+import 'package:vibe_lib/features/library/data/models/prompt_model.dart';
 
 class LocalPromptDatasource {
   Future<List<PromptModel>> getPrompts() async {

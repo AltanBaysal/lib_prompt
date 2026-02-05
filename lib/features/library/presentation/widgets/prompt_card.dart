@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:prompt_lib/core/theme/app_theme.dart';
-import 'package:prompt_lib/features/library/domain/entities/prompt_entity.dart';
+import 'package:vibe_lib/core/theme/app_theme.dart';
+import 'package:vibe_lib/features/library/domain/entities/prompt_entity.dart';
 
 class PromptCard extends StatefulWidget {
   final PromptEntity prompt;
